@@ -357,7 +357,7 @@ margin-left: 320px;
     height: 40px;
     }
   }
-  @media (max-width:320px) {
+  @media (max-width:360px) {
     header{
         min-width: 100%;
     }
